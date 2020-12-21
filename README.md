@@ -2,7 +2,7 @@
 
 ## 🤦‍♂️ About me
 
-I mostly enjoy unix systems programming, networking, distributed systems, databases and the performance implications of these systems and their interactions. I like to contribute to open source whenever I get the time and opportunity. Genuinely curious, I strive to learn as much as I can everyday and improve my craft of software engineering and other interests.
+I am a software developer based in Montreal, Canada who mostly enjoy unix systems programming, networking, distributed systems, databases and the performance implications of these systems and their interactions. I like to contribute to open source whenever I get the time and opportunity. Genuinely curious, I strive to learn as much as I can everyday and improve my craft of software engineering and other interests.
 
 ## 👨‍💻 ‍Technical Experience
 
