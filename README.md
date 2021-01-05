@@ -15,8 +15,8 @@ I started as a ruby developer on the ad campaign management Ruby on Rails app fo
 **Senior Backend Developer at Bookwitty** <br>
 *Book selling platform* <br>
 Jun 2015 - Sep 2016 <br>
-  - Developped and launch the app from scratch with a team of 4 other developers. <br>
-  - Developped a client library to a custom database with an HTTP API.
+  - Developed and launched the app from scratch with a team of 4 other developers. <br>
+  - Developed a client library to a custom database with an HTTP API.
 
 **Backend Developer @ De Marque** <br>
 *Ebook lending platform* <br>
@@ -35,7 +35,7 @@ Apr 2012 - Sept 2012 <br>
 **Backend Developer @ Humagine** <br>
 *Job search platform* <br>
 June 2011 - Feb 2012 <br>
-  - Developped the REST API feeding the web app while also being the sysadmin using EC2.
+  - Developed the REST API feeding the web app while also being the sysadmin using EC2.
 
 **Software developer @ GOX Technologies** <br>
 *Consultancy* <br>
