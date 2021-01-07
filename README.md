@@ -10,7 +10,7 @@ I am a software developer based in Montreal, Canada who mostly enjoy unix system
 *Real-time bidding platform* <br>
 Sep 2016 - Present
 
-I started as a ruby developer on the ad campaign management Ruby on Rails app for a year. Eventually, I switched to working on the real-time bidding platform and its different services, mainly the targeting systems. The languages I regularly use are Rust, C, Erlang and Go tied together with Bash, Makefile or Python scripts. What we build is custom datastores, binary protocols, and other fun things.
+I started as a ruby developer on the ad campaign management Ruby on Rails app for a year. Eventually, I switched to working on the real-time bidding platform and its different services, mainly the targeting systems. The languages I regularly use are Rust, C, Erlang and Go tied together with Bash, Makefile or Python scripts. What we build is custom immutable datastores, binary protocols, and other fun things.
 
 **Senior Backend Developer at Bookwitty** <br>
 *Book selling platform* <br>
