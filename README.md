@@ -6,9 +6,15 @@ I am a software developer based in Montreal, Canada who mostly enjoy unix system
 
 ## 👨‍💻 ‍Technical Experience
 
+**Database Software Engineer @ Era Software** <br>
+*Database* <br>
+Apr 2021 - Present
+
+Building a new database in Rust. Currently targeting log management.
+
 **Senior software engineer @ Adgear / Samsung Ads** <br>
 *Real-time bidding platform* <br>
-Sep 2016 - Present
+Sep 2016 - Mar 2021
 
 I started as a ruby developer on the ad campaign management Ruby on Rails app for a year. Eventually, I switched to working on the real-time bidding platform and its different services, mainly the targeting systems. The languages I regularly use are Rust, C, Erlang and Go tied together with Bash, Makefile or Python scripts. What we build is custom immutable datastores, binary protocols, and other fun things.
 
